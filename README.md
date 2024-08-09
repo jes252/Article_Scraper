@@ -1,11 +1,4 @@
-# Article_Scraper
-A scaper using agentops and firecrawler to help generate article summaries for a blogs. 
-
-Certainly! Below is a `README.md` file for your project:
-
----
-
-# Web Scraping and HTML Conversion Script
+# Web Scraping and HTML Conversion for Articles
 
 This project provides a Python script for scraping web pages, processing the scraped data, and converting the results into a formatted HTML output. The script uses the `Firecrawl`, `OpenAI`, and `AgentOps` APIs to extract data, format it, and track the process.
 
